@@ -1,2 +1,2 @@
-# created-a-table
+# array-object-destructuring
 Created with CodeSandbox
